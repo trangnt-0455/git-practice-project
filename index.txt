@@ -1,8 +1,3 @@
-fil thuc hanh trangnt
-Git online
-
+Fill git thuc hanh trangnt
 Email: nguyen.thi.trang@example.com
-
-Phone: 0901234567
-
-pw: 12345678
+SDT: 123456789
