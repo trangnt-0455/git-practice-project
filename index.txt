@@ -2,4 +2,6 @@ Fill git thuc hanh trangnt
 Email: nguyen.thi.trang@example.com1
 SDT: 123456789
 Dia chi: ha noi
+
 nghe nghiep: QA
+Nghe nghiep: DEV
